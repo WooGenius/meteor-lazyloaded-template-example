@@ -1,6 +1,6 @@
-# Meteor Component Example
+# Meteor Lazy Loaded Template Example
 
-This example recreates the default Meteor "Hello" counter except with the templates loaded on-demand using [`miro:preloader`](https://github.com/MiroHibler/meteor-preloader) and [`numtel:publicsources`](https://github.com/numtel/meteor-publicsources).
+This example recreates the default Meteor "Hello" counter except with the templates loaded on-demand using [`manuelschoebel:wait-on-lib`](https://github.com/DerMambo/wait-on-lib) and [`numtel:publicsources`](https://github.com/numtel/meteor-publicsources).
 
 ## Explanation
 
@@ -18,8 +18,8 @@ See [`publicsources.json`](publicsources.json) for the configuration of the lazy
 # Install Meteor
 $ curl https://install.meteor.com/ | sh
 # Clone Repo
-$ git clone https://github.com/numtel/meteor-component-example.git
-$ cd meteor-component-example
+$ git clone https://github.com/WooGenius/meteor-lazy-loaded-template.git
+$ cd meteor-lazy-loaded-template
 # Start Meteor
 $ meteor
 ```

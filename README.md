@@ -18,8 +18,8 @@ See [`publicsources.json`](publicsources.json) for the configuration of the lazy
 # Install Meteor
 $ curl https://install.meteor.com/ | sh
 # Clone Repo
-$ git clone https://github.com/WooGenius/meteor-lazy-loaded-template.git
-$ cd meteor-lazy-loaded-template
+$ git clone https://github.com/WooGenius/meteor-lazyloaded-template-example.git
+$ cd meteor-lazyloaded-template-example
 # Start Meteor
 $ meteor
 ```
